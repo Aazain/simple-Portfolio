@@ -1,0 +1,27 @@
+body{
+    background-color: #22A39F;
+}
+
+.portfoliointroduction{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.nameHeader{
+    font-family: 'Water Brush', cursive;
+    font-size: 8em;
+}
+
+.occupationHeader{
+    font-family: 'Black Han Sans', sans-serif;
+    margin-top: -80px;
+    font-size: 1.8em;
+}
+
+.githubIcon, .emailIcon{
+    color: white;
+    margin: 1em;
+}
